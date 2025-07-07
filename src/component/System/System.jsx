@@ -11,7 +11,7 @@ import redux from "../../assets/redux.png";
 import npm from "../../assets/npm.png";
 import notion from "../../assets/notion.png";
 import figma from "../../assets/figma.png";
-import swagger from "../../assets/swagger.svg"
+import swagger from "../../assets/Swagger.svg"
 
 
 function System(){
