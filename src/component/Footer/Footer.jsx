@@ -15,7 +15,7 @@ function Footer() {
                 <div className="contentContact">
 
                     <div className="linkContent">
-                        <a href="https://discord.gg/7n4muWgY"><img src={discord} alt="logo discord"/></a>
+                        <a href="https://discord.gg/93JP2emPm8"><img src={discord} alt="logo discord"/></a>
                         <a href="https://www.linkedin.com/in/ilyes-boutajar-82b774373/"><img src={linkedin} alt="logo linkdin"/></a>
                     </div>
 
