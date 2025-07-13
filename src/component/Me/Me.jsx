@@ -40,7 +40,7 @@ function Me() {
                     } else {
                         clearInterval(secondTitleIntervalId);
                     }
-                }, 0);//vitesse pour le titre secondaire
+                }, 20);//vitesse pour le titre secondaire
 
         //interval pour le texte
         const textIntervalId = setInterval(() => {
