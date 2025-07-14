@@ -96,18 +96,21 @@
 @media screen and (max-width: 768px) {
     .wrapperFooter {
         gap: 98px;
-        height: 107vh;
+        height: 120vh;
         padding: 255px 30px 30px;
 
 
         h2 {
             margin-bottom: 60px;
+            visibility: hidden;
         }
 
 
         .containerSocial {
             margin: 0px;
+            height: 30vh;
         }
+
 
 
     }
