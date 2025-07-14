@@ -33,7 +33,7 @@ function System(){
                 //récupération de la hauteur de la fenêtre du navigateur
                 const windowHeight = window.innerHeight;
                 //vérification si l'élément est à moitié visible dans la fenêtre
-                if (top <= windowHeight / 3 && bottom >= windowHeight / 3) {
+                if (top <= windowHeight / 2 && bottom >= windowHeight / 3) {
                     //si oui, maj de l'état pour indiquer que l'élément est visible
                     setIsSystemInView(true);
                 } else {
