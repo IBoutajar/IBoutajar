@@ -115,7 +115,7 @@
 
 @keyframes moveBallRight {
     from {
-        transform: translateX(10vh);
+        transform: translateX(5vh);
         opacity: 0;
     }
     to {
@@ -126,7 +126,7 @@
 
 @keyframes moveBallLeft {
     from {
-        transform: translateX(-10vh); 
+        transform: translateX(-5vh); 
         opacity: 0;
     }
     to {
@@ -137,7 +137,7 @@
 
 @keyframes moveBallTop {
     from {
-        transform: translateY(-10vh); /* Déplacer la balle vers le haut de l'écran */
+        transform: translateY(-5vh); /* Déplacer la balle vers le haut de l'écran */
         opacity: 0; /* Rendre la balle invisible */
     }
     to {
