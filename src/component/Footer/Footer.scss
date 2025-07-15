@@ -5,7 +5,7 @@
     padding: 100px 30px 30px;
     margin: auto;
     justify-content: space-between;
-    background-color: #11193a;
+    background-color: var(--dark-blue);
 
     h2 {
     text-align: center;
@@ -21,11 +21,11 @@
     justify-content: center;
     margin: auto;
     padding: 10px;
-    background-color: #11193a;
+    background-color: var(--dark-blue);
     height: 25vh;
     width: 100%;
     border-radius: 10px;
-    border: 5px solid #b52545;
+    border: 5px solid var(--pink-red);
          p {
     text-align: center;
     color: #fff;

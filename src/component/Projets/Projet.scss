@@ -3,7 +3,7 @@
 .wrapperProjet {
     height: 100vh;
     width: 100%;
-    background-color: #11193a;
+    background-color: var(--dark-blue);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -76,8 +76,8 @@
                 display: flex;
                 align-items: center;
                 justify-content: space-evenly;
-                background-color: #11193a;
-                border: 2px solid #b52545;
+                background-color: var(--dark-blue);
+                border: 2px solid var(--pink-red);
 
                 p{
                     text-align: center;
