@@ -13,7 +13,7 @@ function Me() {
 
     //état pour stocker le texte animé
     const [animatedText, setAnimatedText] = useState('');
-    const originalText = "Passionné par l'informatique, les jeux vidéo, j'ai commencé à étudier le développement web en 2024. J'ai suivi une formation, celle d'OpenClassrooms sur l'intégration web.";
+    const originalText = "Passionné par l'informatique, les jeux vidéo, j'ai commencé à étudier le développement web en 2024 en suivant une formation, celle d'OpenClassrooms en intégrateur web.";
 
     //effet qui démarre l'animation
     useEffect(() => {
