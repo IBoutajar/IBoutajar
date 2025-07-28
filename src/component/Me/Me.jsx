@@ -61,8 +61,8 @@ function Me() {
 
     return (
         <div className="meWrapper">
-            <h2>{animatedTitle}</h2>
-            <h3>{animatedSecondTitle}</h3>
+            <h1>{animatedTitle}</h1>
+            <h2>{animatedSecondTitle}</h2>
             <p>{animatedText}</p>
             <div className="git">
                 <div className='blockLink'>

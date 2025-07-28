@@ -18,7 +18,7 @@ function Header() {
     return (
         <div id="home" className="wrapperHeader">
             <div className="header">
-            <img className="logo" src={Logo} alt="logo" />
+            <img className="logo" src={Logo} alt="logo Ilyes Boutjar" />
             {isNavOpen && <Nav />}
             <MenuBurger onClick={toggleNav} />
             </div>
